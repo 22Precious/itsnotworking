@@ -1,0 +1,21 @@
+body{
+    background-color: purple;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 10px;
+}
+.score{
+    font-size: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 10px;
+
+}
+.timer{
+    font-size: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-right: 10px;
+
+}
+
+.sketch_name{
+    color: red;
+}
